@@ -1,0 +1,29 @@
+---
+server:
+  runMode: "debug"   # "debug" or "release" 
+  serverAddr: "127.0.0.1:8000"
+  readTimeout: 60
+  writeTimeout: 60
+
+app:
+  timeFormat: "2016-01-02 15:04:05"
+  tokenTimeout: 28800 # 单位 秒
+  schema: "http"
+  staticBasePath: "static"
+  uploadBasePath: "upload"
+  imageRelPath: "images"
+
+dbmysql:
+  mode: "mysql"
+  host: "127.0.0.1"
+  port: "3306"
+  dbUser: "root"
+  dbPwd: "ts123456"
+  dbName: "blog"
+
+redis:
+  redisAddr: "127.0.0.1:6379"
+  pwd: "ts123456"
+  db: 0
+  cacheTime: 30 # 单位 秒
+

@@ -1,0 +1,26 @@
+[GIN-debug] GET    /index                    --> ginproject/ginblog/controller.GetIndex (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8008
+2019-09-19 05:51:12 - 127.0.0.1 "GET /index HTTP/1.1 200 58.838µs "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" "
+[GIN-debug] GET    /index                    --> ginproject/ginblog/controller.GetIndex (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8008
+[GIN-debug] GET    /index                    --> ginproject/ginblog/controller.GetIndex (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8008
+2019-09-20 01:23:43 - 127.0.0.1 "GET /index HTTP/1.1 200 163.563µs "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" "
+2019-09-20 01:23:43 - 127.0.0.1 "GET /favicon.ico HTTP/1.1 404 995ns "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" "
+[GIN-debug] GET    /index                    --> ginproject/ginblog/controller.GetIndex (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8008
+[GIN-debug] GET    /index                    --> ginproject/ginblog/controller.GetIndex (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8008
+[GIN-debug] GET    /index                    --> ginproject/ginblog/controller.GetIndex (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8008
+2019-09-20 04:51:01 - 127.0.0.1 "GET / HTTP/1.1 404 1.01µs "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" "
+2019-09-20 04:51:05 - 127.0.0.1 "GET /index HTTP/1.1 200 36.912µs "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" "
+[GIN-debug] GET    /index                    --> ginproject/ginblog/controller.GetIndex (3 handlers)
+[GIN-debug] GET    /index                    --> ginproject/ginblog/controller.GetIndex (3 handlers)
+[GIN-debug] Listening and serving HTTP on 127.0.0.1:8000
+2019-09-20 04:59:06 - 127.0.0.1 "GET /index HTTP/1.1 200 134.476µs "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" "
+2019-09-20 04:59:06 - 127.0.0.1 "GET /favicon.ico HTTP/1.1 404 851ns "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" "
+[GIN-debug] GET    /index                    --> ginproject/controller.GetIndex (3 handlers)
+[GIN-debug] Listening and serving HTTP on 127.0.0.1:8000
+[GIN-debug] GET    /index                    --> ginproject/controller.GetIndex (3 handlers)
+[GIN-debug] Listening and serving HTTP on 127.0.0.1:8000
